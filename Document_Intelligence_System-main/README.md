@@ -355,6 +355,6 @@ This project demonstrates practical implementation of:
 
 ## 🧑‍💻 Author
 
-Gummadi Balaram  
+Ravi Sai Teja 
 B.Tech Computer Science  
 Document Intelligence System Project
